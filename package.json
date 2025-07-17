@@ -1,0 +1,19 @@
+{
+  "name": "tridek",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "Diatomée",
+  "license": "ISC",
+  "description": "Lightweight pomodoro app.",
+  "dependencies": {
+    "nodoj": "^1.1.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.6",
+    "html-minifier-terser": "^7.2.0"
+  }
+}
