@@ -35,8 +35,6 @@ At the end of each session, a notification and a sound are triggered.
 
 *Tridek* means *Thirty (30)* in Esperanto.
 
----
-
 ## Repository usage
 
 1. **Clone** or download the repository.
